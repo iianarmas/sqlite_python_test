@@ -1,7 +1,7 @@
 import testdb
 
 
-# add one records
+# add one record
 testdb.add_one('Caroline', 'McGuiver', 30, 'carol@gmail.com')
 
 
